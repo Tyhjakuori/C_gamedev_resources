@@ -31,6 +31,10 @@ https://github.com/chocolate-doom/chocolate-doom
 https://github.com/andwn/sdl2-tetris   
 https://github.com/rapiz1/DungeonRush   
 https://github.com/angeluriot/Minecraft_clone   
+https://github.com/cuppajoe123/Pong-Hard-Mode   
+https://github.com/dashed/tetris-sdl-c   
+https://github.com/velorek1/asteroid   
+https://github.com/bradharding/doomretro   
    
 ## OpenGl
    
