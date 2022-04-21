@@ -3,12 +3,15 @@
 * [SDL2](#sdl2)
 	* [Tutorials](#tutorials)
 	* [Projects](#projects)
-* [OpenGl](#opengl)
+* [OpenGL](#opengl)
 	* [Tutorials](#tutorials-1)
 	* [Projects](#projects-1)
+* [OpenGL&SDL](opengl&sdl)
+	*[Tutorials](#tutorials-2)
+	*[Projects](#projects-2)
 * [Vulkan](#vulkan)
-	* [Tutorials](#tutorials-2)
-	* [Projects](#projects-2)
+	* [Tutorials](#tutorials-3)
+	* [Projects](#projects-3)
 
 
 ## Introduction
@@ -36,12 +39,13 @@ https://github.com/dashed/tetris-sdl-c
 https://github.com/velorek1/asteroid   
 https://github.com/bradharding/doomretro   
    
-## OpenGl
+## OpenGL
    
 ### Tutorials
 https://web.archive.org/web/20140209181347/http://www.arcsynthesis.org/gltut/   
 https://www.glprogramming.com/red/chapter01.html   
 https://github.com/SonarSystems/Modern-OpenGL-Tutorials   
+https://openglbook.com/the-book.html   
    
 ### Projects
 https://github.com/afiskon/c-opengl-text   
@@ -50,6 +54,24 @@ https://github.com/eduard-permyakov/permafrost-engine
 https://github.com/fogleman/Craft   
 https://github.com/c6dy/minecraft-c   
 https://github.com/ec-/Quake3e   
+https://github.com/tsherif/space-shooter.c   
+https://github.com/MarilynDafa/Bulllord-Engine   
+https://github.com/etlegacy/etlegacy   
+https://github.com/bentorkington/sf2ww   
+   
+   
+## OpenGL&SLD
+   
+### Tutorials
+   
+### Projects
+https://github.com/johnpayne-dev/MinecraftC   
+https://github.com/solenum/exengine   
+https://github.com/taisei-project/taisei   
+https://github.com/OpenSWE1R/openswe1r   
+https://github.com/cdev-tux/q3lite   
+https://github.com/dreamchess/dreamchess   
+   
    
 ## Vulkan
    
