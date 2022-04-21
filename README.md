@@ -6,9 +6,9 @@
 * [OpenGL](#opengl)
 	* [Tutorials](#tutorials-1)
 	* [Projects](#projects-1)
-* [OpenGL&SDL](opengl&sdl)
-	*[Tutorials](#tutorials-2)
-	*[Projects](#projects-2)
+* [OpenGL-SDL](#opengl-sdl)
+	* [Tutorials](#tutorials-2)
+	* [Projects](#projects-2)
 * [Vulkan](#vulkan)
 	* [Tutorials](#tutorials-3)
 	* [Projects](#projects-3)
@@ -60,7 +60,7 @@ https://github.com/etlegacy/etlegacy
 https://github.com/bentorkington/sf2ww   
    
    
-## OpenGL&SLD
+## OpenGL-SDL
    
 ### Tutorials
    
