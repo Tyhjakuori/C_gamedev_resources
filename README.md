@@ -21,6 +21,7 @@ If you want to help me gather resources in one place, please do an issue or pull
 For the moment this will be my personal collection of tutorials & projects that i have found.   
 Currently i have included SDL2, OpenGL and Vulkan as those i am interested in, this might expand in the future.   
    
+   
 ## SDL2
 
 ### Tutorials
@@ -37,7 +38,9 @@ https://github.com/angeluriot/Minecraft_clone
 https://github.com/cuppajoe123/Pong-Hard-Mode   
 https://github.com/dashed/tetris-sdl-c   
 https://github.com/velorek1/asteroid   
-https://github.com/bradharding/doomretro   
+https://github.com/bradharding/doomretro  
+https://github.com/deccanengine/DeccanEngine   
+   
    
 ## OpenGL
    
@@ -57,7 +60,16 @@ https://github.com/ec-/Quake3e
 https://github.com/tsherif/space-shooter.c   
 https://github.com/MarilynDafa/Bulllord-Engine   
 https://github.com/etlegacy/etlegacy   
-https://github.com/bentorkington/sf2ww   
+https://github.com/bentorkington/sf2ww  
+https://github.com/quou/openmv  
+https://github.com/FabianHahn/shoveler   
+https://github.com/knicked/CCraft  
+https://github.com/Mikepicker/opengl-racing  
+https://github.com/yui0/catgl  
+https://github.com/loopj/opengl-racing-game   
+https://github.com/lowlevel86/OpenGL-3D-Adventure-Game-Engine  
+https://github.com/TheComet/lightship-dbp  
+https://github.com/goodpaul6/Wolf3D   
    
    
 ## OpenGL-SDL
@@ -70,7 +82,12 @@ https://github.com/solenum/exengine
 https://github.com/taisei-project/taisei   
 https://github.com/OpenSWE1R/openswe1r   
 https://github.com/cdev-tux/q3lite   
-https://github.com/dreamchess/dreamchess   
+https://github.com/dreamchess/dreamchess  
+https://github.com/KellerMartins/PixelVoxels  
+https://github.com/ultitech/GLMaze  
+https://github.com/justinmeiners/c-craft   
+https://github.com/lcthums/C3D  
+https://github.com/zorgiepoo/Sky-Checkers   
    
    
 ## Vulkan
