@@ -70,6 +70,14 @@ https://github.com/loopj/opengl-racing-game
 https://github.com/lowlevel86/OpenGL-3D-Adventure-Game-Engine  
 https://github.com/TheComet/lightship-dbp  
 https://github.com/goodpaul6/Wolf3D   
+https://github.com/ArtemisChief/Heracles   
+https://github.com/WHKnightZ/OpenGL_Cube_Snake   
+https://github.com/justinmeiners/shamans   
+https://github.com/Rabios/LINES   
+https://github.com/joeycollins/EvoC2D  
+https://github.com/RosieSapphire/glfw-3d  
+https://github.com/victor-borges/aim-trainer  
+https://github.com/yalue/l_system_3d
    
    
 ## OpenGL-SDL
@@ -87,7 +95,11 @@ https://github.com/KellerMartins/PixelVoxels
 https://github.com/ultitech/GLMaze  
 https://github.com/justinmeiners/c-craft   
 https://github.com/lcthums/C3D  
-https://github.com/zorgiepoo/Sky-Checkers   
+https://github.com/zorgiepoo/Sky-Checkers  
+https://github.com/renehorstmann/Pixelc  
+https://github.com/renehorstmann/some   
+https://github.com/tristanpenman/asteroids  
+https://github.com/Vespidian/GameFramework   
    
    
 ## Vulkan
@@ -106,4 +118,6 @@ https://github.com/gheshu/pim
 https://github.com/PaoloMazzon/Vulkan2D   
 https://github.com/suijingfeng/vkOpenArena   
 https://github.com/fknfilewalker/Quake-III-Arena-R   
+https://github.com/felipeagc/vkrender (Public archive)  
+https://github.com/cfnptr/uran   
    
