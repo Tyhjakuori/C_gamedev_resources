@@ -12,7 +12,9 @@
 * [Vulkan](#vulkan)
 	* [Tutorials](#tutorials-3)
 	* [Projects](#projects-3)
-
+* [Other](#other)
+	* [Tutorials](#tutorials-4)
+	* [Projects](#projects-4)
 
 ## Introduction
 This will be collection of tutorials, projects (and examples later on) written only/mainly in C.   
@@ -49,6 +51,7 @@ https://web.archive.org/web/20140209181347/http://www.arcsynthesis.org/gltut/
 https://www.glprogramming.com/red/chapter01.html   
 https://github.com/SonarSystems/Modern-OpenGL-Tutorials   
 https://openglbook.com/the-book.html   
+https://youtu.be/huMO4VQEwPc Let's Program Doom - Part 1 by 3DSage   
    
 ### Projects
 https://github.com/afiskon/c-opengl-text   
@@ -77,7 +80,14 @@ https://github.com/Rabios/LINES
 https://github.com/joeycollins/EvoC2D  
 https://github.com/RosieSapphire/glfw-3d  
 https://github.com/victor-borges/aim-trainer  
-https://github.com/yalue/l_system_3d
+https://github.com/yalue/l_system_3d   
+https://github.com/Denzy7/dengine   
+https://github.com/licktheroom/warship-opengl  
+https://github.com/rfmineguy/firefly-lib  
+https://github.com/Chloekkk/cub3D  
+https://github.com/Silviculturalist/OpenForestViz  
+https://github.com/nusbog/Basilisk  
+https://github.com/RohanFredriksson/WaffleEngine   
    
    
 ## OpenGL-SDL
@@ -121,3 +131,12 @@ https://github.com/fknfilewalker/Quake-III-Arena-R
 https://github.com/felipeagc/vkrender (Public archive)  
 https://github.com/cfnptr/uran   
    
+
+## Other   
+   
+### Tutorials   
+https://helderman.github.io/htpataic/htpataic01.html How to program a text adventure in C   
+  
+### Projects
+   
+
