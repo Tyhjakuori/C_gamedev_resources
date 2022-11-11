@@ -16,6 +16,7 @@
 	* [Tutorials](#tutorials-4)
 	* [Projects](#projects-4)
 
+---
 ## Introduction
 This will be collection of tutorials, projects (and examples later on) written only/mainly in C.   
 If you want some project, site removed from here please do create an issue or pull request for it.   
@@ -23,12 +24,14 @@ If you want to help me gather resources in one place, please do an issue or pull
 For the moment this will be my personal collection of tutorials & projects that i have found.   
 Currently i have included SDL2, OpenGL and Vulkan as those i am interested in, this might expand in the future.   
    
-   
+---   
 ## SDL2
 
 ### Tutorials
 https://acry.github.io/SDL2-C.htm   
-https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/
+https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/   
+https://lazyfoo.net/tutorials/SDL/index.php   
+https://wiki.libsdl.org/Tutorials   
    
 ### Projects
 https://github.com/tsoding/nothing   
@@ -42,8 +45,9 @@ https://github.com/dashed/tetris-sdl-c
 https://github.com/velorek1/asteroid   
 https://github.com/bradharding/doomretro  
 https://github.com/deccanengine/DeccanEngine   
+https://github.com/silvematt/TomentRaycaster [^1] Toment Raycaster - A Raycasting Engine written in C and SDL2.
    
-   
+--- 
 ## OpenGL
    
 ### Tutorials
@@ -52,6 +56,8 @@ https://www.glprogramming.com/red/chapter01.html
 https://github.com/SonarSystems/Modern-OpenGL-Tutorials   
 https://openglbook.com/the-book.html   
 https://youtu.be/huMO4VQEwPc Let's Program Doom - Part 1 by 3DSage   
+https://youtu.be/gYRrGTC7GtA Make Your Own Raycaster Part 1 by 3DSage   
+https://lazyfoo.net/tutorials/OpenGL/index.php   
    
 ### Projects
 https://github.com/afiskon/c-opengl-text   
@@ -88,8 +94,10 @@ https://github.com/Chloekkk/cub3D
 https://github.com/Silviculturalist/OpenForestViz  
 https://github.com/nusbog/Basilisk  
 https://github.com/RohanFredriksson/WaffleEngine   
+https://github.com/MrFrenik/gunslinger/   
+https://github.com/NetHack/NetHack   
    
-   
+---   
 ## OpenGL-SDL
    
 ### Tutorials
@@ -111,13 +119,14 @@ https://github.com/renehorstmann/some
 https://github.com/tristanpenman/asteroids  
 https://github.com/Vespidian/GameFramework   
    
-   
+---  
 ## Vulkan
    
 ### Tutorials
 https://renderdoc.org/vulkan-in-30-minutes.html   
 https://web.engr.oregonstate.edu/~mjb/vulkan/   
 https://github.com/ShabbyX/vktut   
+https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj Vulkan Game Engine Series playlist by Travis Vroman   
    
 ### Projects
 https://github.com/Sl3dge78/vulkan   
@@ -131,12 +140,17 @@ https://github.com/fknfilewalker/Quake-III-Arena-R
 https://github.com/felipeagc/vkrender (Public archive)  
 https://github.com/cfnptr/uran   
    
-
+---
 ## Other   
    
 ### Tutorials   
 https://helderman.github.io/htpataic/htpataic01.html How to program a text adventure in C   
+https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt Learn Videogame Programming in C playlist by VertoStudio3D   
+https://www.youtube.com/watch?v=-_HxKDNuCqA Header-Only Game Framework in C by John Jackson   
   
 ### Projects
    
+
+---
+[^1]: https://youtu.be/XFCinBirBVw
 
