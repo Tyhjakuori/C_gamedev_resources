@@ -52,6 +52,10 @@ https://github.com/megamarc/Tilengine Free 2D graphics engine with raster effect
 https://github.com/Janko-dev/raycasting_c 2D raycasting in C using SDL2   
 https://github.com/superjer/tinyc.games Tiny C games you can compile and run RIGHT NOW   
 https://github.com/vkoskiv/c-ray c-ray is a small, simple path tracer written in C   
+https://github.com/Error916/Chip8_emulator   
+https://github.com/angband/angband A free, single-player roguelike dungeon exploration game    
+https://github.com/cxong/cdogs-sdl Classic overhead run-and-gun game    
+https://github.com/sezero/quakespasm QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake.    
    
 --- 
 ## OpenGL
@@ -103,6 +107,8 @@ https://github.com/RohanFredriksson/WaffleEngine An OpenGL 2D game engine built 
 https://github.com/MrFrenik/gunslinger/ C99, header-only framework for games and multimedia applications   
 https://github.com/NetHack/NetHack Official NetHack Git Repository   
 https://github.com/rswinkle/PortableGL An implementation of OpenGL 3.x-ish in clean C   
+https://github.com/xtreme8000/BetterSpades BetterSpades, an Ace of Spades client targeted at low end systems (GL/ES 1.1). Runs on your grandmother's rig!    
+https://github.com/GameEngineering/EP01_SandSim Inspired by Noita, this is a simple "falling sand" simulation to demonstrate the mechanics and ideas behind Cellular Automata.   
    
 ---   
 ## OpenGL-SDL
@@ -125,6 +131,7 @@ https://github.com/renehorstmann/Pixelc An opensource tile/sprite editor in C, u
 https://github.com/renehorstmann/some Sdl2 OpenGL Mini Engine.    
 https://github.com/tristanpenman/asteroids Asteroids clone written in old-school C. Ported to JS using Emscripten, and currently being ported to N64   
 https://github.com/Vespidian/GameFramework 3D game / software engine built upon SDL2 and OpenGL   
+https://github.com/zaps166/NFSIISE Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!    
    
 ---  
 ## Vulkan
@@ -160,7 +167,10 @@ https://www.youtube.com/watch?v=9pnEBa4cy5w Pixel Perfect Collision Detection in
 https://github.com/camc/chess A C11 chess engine & GUI   
 https://github.com/snesrev/zelda3 A reimplementation of Zelda 3.   
 https://github.com/slembcke/Chipmunk2D A fast and lightweight 2D game physics library.  
-https://github.com/erkkah/tigr TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.  
+https://github.com/erkkah/tigr TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.   
+https://github.com/domeengine/dome A lightweight game development environment where games can be written in Wren    
+https://github.com/rxi/microui A tiny immediate-mode UI library    
+https://github.com/syoyo/tinyobjloader-c Header only tiny wavefront .obj loader in pure C99   
    
 
 ---
