@@ -56,6 +56,7 @@ https://github.com/Error916/Chip8_emulator
 https://github.com/angband/angband A free, single-player roguelike dungeon exploration game    
 https://github.com/cxong/cdogs-sdl Classic overhead run-and-gun game    
 https://github.com/sezero/quakespasm QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake.    
+https://github.com/iortcw/iortcw Merge of ioquake3 features and fixes into RTCW code bases    
    
 --- 
 ## OpenGL
@@ -109,6 +110,8 @@ https://github.com/NetHack/NetHack Official NetHack Git Repository
 https://github.com/rswinkle/PortableGL An implementation of OpenGL 3.x-ish in clean C   
 https://github.com/xtreme8000/BetterSpades BetterSpades, an Ace of Spades client targeted at low end systems (GL/ES 1.1). Runs on your grandmother's rig!    
 https://github.com/GameEngineering/EP01_SandSim Inspired by Noita, this is a simple "falling sand" simulation to demonstrate the mechanics and ideas behind Cellular Automata.   
+https://github.com/scottcgi/Mojoc A cross-platform, open-source, pure C game engine for mobile game.   
+https://github.com/jakehffn/lesser-doom Doom-style render engine experiment in C   
    
 ---   
 ## OpenGL-SDL
@@ -132,6 +135,8 @@ https://github.com/renehorstmann/some Sdl2 OpenGL Mini Engine.
 https://github.com/tristanpenman/asteroids Asteroids clone written in old-school C. Ported to JS using Emscripten, and currently being ported to N64   
 https://github.com/Vespidian/GameFramework 3D game / software engine built upon SDL2 and OpenGL   
 https://github.com/zaps166/NFSIISE Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!    
+https://github.com/shinyquagsire23/OpenJKDF2 A cross-platform reimplementation of JKDF2 in C   
+https://github.com/atsb/Doom64EX-Plus An improved modern version of Doom64EX.    
    
 ---  
 ## Vulkan
@@ -171,6 +176,11 @@ https://github.com/erkkah/tigr TIGR - the TIny GRaphics library for Windows, mac
 https://github.com/domeengine/dome A lightweight game development environment where games can be written in Wren    
 https://github.com/rxi/microui A tiny immediate-mode UI library    
 https://github.com/syoyo/tinyobjloader-c Header only tiny wavefront .obj loader in pure C99   
+https://github.com/datenwolf/linmath.h A small library for linear math as required for computer graphics   
+https://github.com/zpl-c/librg Single-header cross-platform world replication in pure C99.    
+https://github.com/n64decomp/mk64 A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.   
+https://github.com/trevarj/dotris A mini Tetris clone made with dots   
+https://github.com/edubart/sokol_gp Minimal modern efficient cross platform 2D graphics painter in C   
    
 
 ---
