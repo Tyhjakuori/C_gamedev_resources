@@ -46,7 +46,7 @@ https://github.com/dashed/tetris-sdl-c A toy project implementing a simple tetri
 https://github.com/velorek1/asteroid Classic Asteroid Game coded with SDL2 in C    
 https://github.com/bradharding/doomretro The classic, refined DOOM source port. For Windows PC.   
 https://github.com/deccanengine/DeccanEngine Deccan Engine is an Open-Source Cross-Platform 2D Game Engine written in C11. Powered by SDL2.   
-https://github.com/silvematt/TomentRaycaster [^1] Toment Raycaster - A Raycasting Engine written in C and SDL2.
+https://github.com/silvematt/TomentRaycaster [^1] Toment Raycaster - A Raycasting Engine written in C and SDL2.   
 https://github.com/NVIDIA/Q2RTX NVIDIA’s implementation of RTX ray-tracing in Quake II   
 https://github.com/megamarc/Tilengine Free 2D graphics engine with raster effects for retro/classic style game development   
 https://github.com/Janko-dev/raycasting_c 2D raycasting in C using SDL2   
@@ -57,6 +57,24 @@ https://github.com/angband/angband A free, single-player roguelike dungeon explo
 https://github.com/cxong/cdogs-sdl Classic overhead run-and-gun game    
 https://github.com/sezero/quakespasm QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake.    
 https://github.com/iortcw/iortcw Merge of ioquake3 features and fixes into RTCW code bases    
+https://github.com/olzhasar/sdl-tetris Tetris game implemented with C and SDL-2   
+https://gitlab.com/KilgoreTroutMaskReplicant/1oom 1oom is a Master of Orion (1993) game engine recreation.   
+https://sourceforge.net/projects/abe A scrolling, platform-jumping, key-collecting, ancient pyramid exploring game, vaguely in the style of similar games for the Commodore+4. The game is intended to show young people (I'm writing it for my son's birthday) all the cool games they missed.   
+https://github.com/dorkster/freeblocks FreeBlocks is a puzzle game with similar gameplay to Tetris Attack.   
+https://gitlab.com/osgames/freenukum   
+https://github.com/DarkPlacesEngine/darkplaces DarkPlaces is a game engine based on the Quake 1 engine by id Software. It improves and builds upon the original 1996 engine by adding modern rendering features, and expanding upon the engine's native game code language QuakeC, as well as supporting additional map and model formats.   
+https://github.com/dethrace-labs/dethrace Reverse engineering the 1997 game "Carmageddon"   
+https://sourceforge.net/projects/etw/ Eat the whistle GPL is a football simulation game written in C that works on many platforms (win32/linux/macosx/amigaos/morphos), it uses the SDL framework.   
+https://github.com/alxm/faur My personal C games framework. 2D graphics, sound, inputs, states, ECS, and misc utils for data, files, math, memory, strings, time, and more. Builds for Linux, Windows, Web, and embedded devices.   
+https://github.com/JNechaevsky/inter-doom International Doom is a set of bilingual limit-removing source ports of Doom, Heretic and Hexen. It has numerous optional gameplay and aesthetic enhancements, higher 640x400 and 1280x800 rendering resolutions along with emulated Doom Press Beta and Jaguar Doom game modes.   
+https://github.com/riksweeney/edgar A 2D platform game with a persistent world. When Edgar's father fails to return home after venturing out one dark and stormy night, Edgar fears the worst: he has been captured by the evil sorcerer who lives in a fortress beyond the forbidden swamp.   
+https://github.com/pr-starfighter/starfighter Project: Starfighter is a space shoot 'em up game originally developed by Parallel Realities in 2002, and released in 2003. You assume the role of Chris Bainfield in his quest to put an end to WEAPCO, the weapons corporation which has enslaved the galaxy.   
+https://github.com/sergiou87/open-supaplex Reverse engineering Supaplex   
+https://github.com/callaa/luola A 2D caveflying action game   
+https://github.com/nevat/abbayedesmorts-gpl l'Abbaye des Morts - ported to Linux, Pandora, GCW0, Wii and PSP   
+https://github.com/cknave/kevedit KevEdit ZZT editor   
+https://github.com/ioquake/ioq3 The ioquake3 community effort to continue supporting/developing id's Quake III Arena   
+https://github.com/sezero/hhexen HHexen: Hacked Hexen   
    
 --- 
 ## OpenGL
@@ -112,6 +130,10 @@ https://github.com/xtreme8000/BetterSpades BetterSpades, an Ace of Spades client
 https://github.com/GameEngineering/EP01_SandSim Inspired by Noita, this is a simple "falling sand" simulation to demonstrate the mechanics and ideas behind Cellular Automata.   
 https://github.com/scottcgi/Mojoc A cross-platform, open-source, pure C game engine for mobile game.   
 https://github.com/jakehffn/lesser-doom Doom-style render engine experiment in C   
+https://github.com/kraflab/dsda-doom This is a fork of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning.    
+https://sourceforge.net/projects/dtris 4D-TRIS is an alteration of the well-known Tetris game. The game field is extended to a 4D field, which has to filled up by the gamer with 4D hyper cubes. The software is written in C with OpenGL and GLUT   
+https://github.com/aperture-software/colditz-escape Amiga's "Escape From Colditz" ported to Windows, Linux, macOS and PSP   
+https://github.com/yquake2/yquake2 The Yamagi Quake II client   
    
 ---   
 ## OpenGL-SDL
@@ -137,6 +159,10 @@ https://github.com/Vespidian/GameFramework 3D game / software engine built upon 
 https://github.com/zaps166/NFSIISE Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!    
 https://github.com/shinyquagsire23/OpenJKDF2 A cross-platform reimplementation of JKDF2 in C   
 https://github.com/atsb/Doom64EX-Plus An improved modern version of Doom64EX.    
+https://github.com/mdsteele/azimuth A metroidvania with vector graphics   
+https://github.com/UnknownShadow200/ClassiCube Custom Minecraft Classic 0.30 / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)   
+https://github.com/Interrupt/systemshock Shockolate - A minimalist and cross platform System Shock source port.   
+
    
 ---  
 ## Vulkan
@@ -156,7 +182,7 @@ https://github.com/gheshu/pim Pim is a little "zen garden" for tinkering around,
 https://github.com/PaoloMazzon/Vulkan2D 2D renderer written in C utilizing Vulkan   
 https://github.com/suijingfeng/vkOpenArena Old games never die, they just fade away...   
 https://github.com/fknfilewalker/Quake-III-Arena-R Vulkan RTX Path Tracing Implementation for Quake III   
-https://github.com/felipeagc/vkrender Vulkan renderer / game engine (Public archive)  
+https://github.com/felipeagc/vkrender Vulkan renderer / game engine (Public archive)   
 https://github.com/cfnptr/uran Multi-platform game engine written in C   
    
 ---
@@ -181,8 +207,14 @@ https://github.com/zpl-c/librg Single-header cross-platform world replication in
 https://github.com/n64decomp/mk64 A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.   
 https://github.com/trevarj/dotris A mini Tetris clone made with dots   
 https://github.com/edubart/sokol_gp Minimal modern efficient cross platform 2D graphics painter in C   
+https://github.com/id-Software/DOOM DOOM Open Source Release   
+https://sourceforge.net/projects/duelcommander Duel Commander is a turn based command line fighting game for Windows and Unix-like systems.The game is completely text based with an easy-to-use interface.   
+https://github.com/jwm-art-net/XorCurses A remake of Xor by Astral Software for Linux, using Ncurses.   
+https://github.com/smcameron/wordwarvi Word War vi is a retro-styled old school side scrolling shooter reminiscent of Defender or Scramble, with an "Emacs vs. vi" theme.   
+https://github.com/vicgeralds/vitetris Classic multiplayer tetris for the terminal   
+https://github.com/scandum/tintin TinTin++, aka tt++, is an extensible console MUD client.   
    
-
+   
 ---
 [^1]: https://youtu.be/XFCinBirBVw
 
