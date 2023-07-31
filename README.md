@@ -75,6 +75,7 @@ https://github.com/nevat/abbayedesmorts-gpl l'Abbaye des Morts - ported to Linux
 https://github.com/cknave/kevedit KevEdit ZZT editor   
 https://github.com/ioquake/ioq3 The ioquake3 community effort to continue supporting/developing id's Quake III Arena   
 https://github.com/sezero/hhexen HHexen: Hacked Hexen   
+https://github.com/snesrev/smw Smw   
    
 --- 
 ## OpenGL
@@ -134,6 +135,9 @@ https://github.com/kraflab/dsda-doom This is a fork of prboom+ with extra toolin
 https://sourceforge.net/projects/dtris 4D-TRIS is an alteration of the well-known Tetris game. The game field is extended to a 4D field, which has to filled up by the gamer with 4D hyper cubes. The software is written in C with OpenGL and GLUT   
 https://github.com/aperture-software/colditz-escape Amiga's "Escape From Colditz" ported to Windows, Linux, macOS and PSP   
 https://github.com/yquake2/yquake2 The Yamagi Quake II client   
+https://github.com/FNA-XNA/FNA3D FNA3D - 3D Graphics Library for FNA   
+https://github.com/Rinnegatamante/vitaGL openGL wrapper for PSVITA.   
+https://github.com/n64dev/cen64 Cycle-Accurate Nintendo 64 Emulator   
    
 ---   
 ## OpenGL-SDL
@@ -162,6 +166,7 @@ https://github.com/atsb/Doom64EX-Plus An improved modern version of Doom64EX.
 https://github.com/mdsteele/azimuth A metroidvania with vector graphics   
 https://github.com/UnknownShadow200/ClassiCube Custom Minecraft Classic 0.30 / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)   
 https://github.com/Interrupt/systemshock Shockolate - A minimalist and cross platform System Shock source port.   
+https://github.com/zturtleman/spearmint Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.   
 
    
 ---  
@@ -184,6 +189,7 @@ https://github.com/suijingfeng/vkOpenArena Old games never die, they just fade a
 https://github.com/fknfilewalker/Quake-III-Arena-R Vulkan RTX Path Tracing Implementation for Quake III   
 https://github.com/felipeagc/vkrender Vulkan renderer / game engine (Public archive)   
 https://github.com/cfnptr/uran Multi-platform game engine written in C   
+https://github.com/kondrak/vkQuake2 d Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4)   
    
 ---
 ## Other   
@@ -213,6 +219,19 @@ https://github.com/jwm-art-net/XorCurses A remake of Xor by Astral Software for 
 https://github.com/smcameron/wordwarvi Word War vi is a retro-styled old school side scrolling shooter reminiscent of Defender or Scramble, with an "Emacs vs. vi" theme.   
 https://github.com/vicgeralds/vitetris Classic multiplayer tetris for the terminal   
 https://github.com/scandum/tintin TinTin++, aka tt++, is an extensible console MUD client.   
+https://github.com/Dotz0cat/farmd half of a farm game   
+https://github.com/FoxdieTeam/mgs_reversing Metal Gear Solid PSX reimpl repo   
+https://github.com/erincatto/box2c Library for 2D Game Physics   
+https://github.com/CTR-tools/CTR-ModSDK ModSDK - a modding toolkit to create mods for Crash Team Racing in C.   
+https://github.com/vitasdk/vita-headers This repository contains all Vita headers needed for development.   
+https://github.com/kcat/dsoal A DirectSound DLL replacer that enables surround sound, HRTF, and EAX support via OpenAL Soft   
+https://github.com/zeldaret/tmc Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU)   
+https://github.com/notaz/picodrive Fast MegaDrive/MegaCD/32X emulator  
+https://github.com/libretro/libretro-common Reusable coding blocks useful for libretro core and frontend development, written primarily in C. Permissively licensed.   
+https://github.com/ekeeke/Genesis-Plus-GX An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator   
+https://github.com/profi200/open_agb_firm open_agb_firm is a bare metal app for running GBA homebrew/games using the 3DS builtin GBA hardware.   
+https://github.com/Xeeynamo/sotn-decomp Decompilation of Castlevania: Symphony of the Night   
+https://github.com/devkitPro/3ds-examples Examples for 3DS using devkitARM, libctru, citro3d and citro2d   
    
    
 ---
