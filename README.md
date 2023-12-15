@@ -12,9 +12,12 @@
 * [Vulkan](#vulkan)
 	* [Tutorials](#tutorials-3)
 	* [Projects](#projects-3)
-* [Other](#other)
+* [Raylib](#raylib)
 	* [Tutorials](#tutorials-4)
-	* [Projects](#projects-4)
+	* [Projects](#tutorials-4)
+* [Other](#other)
+	* [Tutorials](#tutorials-5)
+	* [Projects](#projects-5)
 
 ---
 ## Introduction
@@ -33,6 +36,12 @@ https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-p
 https://lazyfoo.net/tutorials/SDL/index.php   
 https://wiki.libsdl.org/Tutorials   
 https://nullprogram.com/blog/2023/01/08/ SDL2 common mistakes and how to avoid them   
+https://www.youtube.com/watch?v=XfZ6WrV5Z7Y Creating a Game Loop with C & SDL (Tutorial) by pikuma   
+https://www.youtube.com/watch?v=yFLa3ln16w0 Writing 2D Games in C using SDL by Thomas Lively (CS50)   
+https://gigi.nullneuron.net/gigilabs/animations-with-sprite-sheets-in-sdl2/ Animations with Sprite Sheets in SDL2   
+https://gigi.nullneuron.net/gigilabs/sdl2-bounding-box-collision-detection/ SDL2 Bounding Box Collision Detection   
+https://gigi.nullneuron.net/gigilabs/handling-keyboard-and-mouse-events-in-sdl2/ Handling Keyboard and Mouse Events in SDL2   
+
    
 ### Projects
 https://github.com/tsoding/nothing A simple platformer about nothing   
@@ -112,7 +121,6 @@ https://github.com/goodpaul6/Wolf3D Modern OpenGL clone of Wolfenstein 3D (1992)
 https://github.com/ArtemisChief/Heracles a simple 2D Graphic Physics Engine based on OpenGL 3.3   
 https://github.com/WHKnightZ/OpenGL_Cube_Snake Game Cube Snake   
 https://github.com/justinmeiners/shamans A 3D turn-based strategy game for the iPad.   
-https://github.com/Rabios/LINES Very hard game about avoiding a lot of moving lines,Written in C using raylib library   
 https://github.com/joeycollins/EvoC2D Evolution simulator written in C and OpenGL   
 https://github.com/RosieSapphire/glfw-3d [Repository deleted from Github]   
 https://github.com/victor-borges/aim-trainer Joguinho de treinar mira feito em OpenGL   
@@ -138,6 +146,7 @@ https://github.com/yquake2/yquake2 The Yamagi Quake II client
 https://github.com/FNA-XNA/FNA3D FNA3D - 3D Graphics Library for FNA   
 https://github.com/Rinnegatamante/vitaGL openGL wrapper for PSVITA.   
 https://github.com/n64dev/cen64 Cycle-Accurate Nintendo 64 Emulator   
+https://github.com/Falconerd/engine-from-scratch 2D platformer + shooter engine and game written in C   
    
 ---   
 ## OpenGL-SDL
@@ -167,9 +176,10 @@ https://github.com/mdsteele/azimuth A metroidvania with vector graphics
 https://github.com/UnknownShadow200/ClassiCube Custom Minecraft Classic 0.30 / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)   
 https://github.com/Interrupt/systemshock Shockolate - A minimalist and cross platform System Shock source port.   
 https://github.com/zturtleman/spearmint Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.   
+https://github.com/simple2d/simple2d Simple, open-source 2D graphics for everyone   
 
    
----  
+---   
 ## Vulkan
    
 ### Tutorials
@@ -192,14 +202,38 @@ https://github.com/cfnptr/uran Multi-platform game engine written in C
 https://github.com/kondrak/vkQuake2 d Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4)   
    
 ---
+   
+## Raylib
+   
+### Tutorials
+https://www.raylib.com/examples.html   
+https://www.youtube.com/watch?v=HPDLTQ4J_zQ How to compile Raylib from scratch and set up your first projects (Windows / C ) in 15 minutes by Rudy Faile   
+https://www.youtube.com/watch?v=JE7F7DLEjbo Raylib tutorial | Episode 1 | Setting up Raylib and Creating a Window by SkyVaultGames   
+https://www.youtube.com/watch?v=-F6THkPkF2I Getting Started with Raylib - C Tutorial by Andrew Hamel Codes   
+https://github.com/raysan5/raylib-intro-course A small raylib introductory course developing a simple game   
+https://github.com/Pakz001/Raylib-Examples My collection of raylib code examples - For learning the C language with 2D and 3D games.   
+https://www.youtube.com/watch?v=kBky9_X8j3Y How to create a game with 'raylib' in C by victor fisac fuentes   
+https://www.youtube.com/watch?v=p1VQuMziTek Coding a synthesizer in C (episode #1) by locogame
+
+   
+### Projects   
+https://github.com/victorfisac/Physac 2D physics header-only library for videogames developed in C using raylib library.   
+https://github.com/Rabios/LINES Very hard game about avoiding a lot of moving lines,Written in C using raylib library   
+https://github.com/xav1t0/Clock Click Made With raylib in C   
+https://github.com/albertnadal/Wolf3DClone Implementation of the "Wolfenstein 3D"(1992) game engine from scratch using vanilla C and raylib   
+https://github.com/PixelPhobicGames/Chrome-Dino-game-ripoff- Chrome Dinosaur game written in c   
+
+   
+---   
 ## Other   
    
 ### Tutorials   
 https://helderman.github.io/htpataic/htpataic01.html How to program a text adventure in C   
 https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt Learn Videogame Programming in C playlist by VertoStudio3D   
 https://www.youtube.com/watch?v=-_HxKDNuCqA Header-Only Game Framework in C by John Jackson   
-https://www.youtube.com/watch?v=9pnEBa4cy5w Pixel Perfect Collision Detection in C   
-  
+https://www.youtube.com/watch?v=9pnEBa4cy5w Pixel Perfect Collision Detection in C by Nick Walton   
+
+   
 ### Projects   
 https://github.com/camc/chess A C11 chess engine & GUI   
 https://github.com/snesrev/zelda3 A reimplementation of Zelda 3.   
@@ -232,6 +266,11 @@ https://github.com/ekeeke/Genesis-Plus-GX An enhanced port of Genesis Plus - acc
 https://github.com/profi200/open_agb_firm open_agb_firm is a bare metal app for running GBA homebrew/games using the 3DS builtin GBA hardware.   
 https://github.com/Xeeynamo/sotn-decomp Decompilation of Castlevania: Symphony of the Night   
 https://github.com/devkitPro/3ds-examples Examples for 3DS using devkitARM, libctru, citro3d and citro2d   
+https://github.com/emu-russia/UltraHLE UltraHLE source code   
+https://github.com/pmret/papermario Decompilation of Paper Mario   
+https://github.com/fte-team/fteqw This is the official GitHub mirror for the FTEQW project.   
+https://github.com/devkitPro/3ds-hbmenu The 3DS Homebrew Menu (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ   
+https://github.com/zeldaret/af Decompilation of Animal Forest   
    
    
 ---
